@@ -1,0 +1,9 @@
+# https://docs.continue.dev/customize/deep-dives/mcp
+# using MCP server from: https://github.com/fiakkasa/SimpleMCP
+name: Local MCP servers
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: Local Simple MCP server
+    type: streamable-http
+    url: http://localhost:5121
