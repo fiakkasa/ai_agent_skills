@@ -6,6 +6,10 @@
 
 ![Vowel Detection](./images/vowel-detection.png)
 
+`/weather-forecast`
+
+![Weather Forecast](./images/weather-forecast.png)
+
 ## Resources
 
 - https://code.visualstudio.com/docs/copilot/customization/agent-skills
